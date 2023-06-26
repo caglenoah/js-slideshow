@@ -19,7 +19,7 @@ let showSlides = () => {
 
 // next previous controls
 // corrected old way. what written function plusSlides(n) {}
-// By using arrow functin SyntaxError, you have a more concise and modern way to define funtcions in .js
+// By using arrow functin Syntax, you have a more concise and modern way to define funtcions in .js
 // defines a variable 'plusSlides' as an arrow funtion that takes an argument 'n'
 // inside the functin, it calls 'showslides' with the expression 'slideIndex +=n' which increments the 'slideIndex' variable by 'n' and assigns the result back to 'slideIndex'
 
@@ -69,6 +69,8 @@ showSlides = (n) => {
     dots[slideIndex - 1].className += " active";
 
 }
+
+
 
 
 

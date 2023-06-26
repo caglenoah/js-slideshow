@@ -78,4 +78,7 @@ animation-duration: 1.5s;
    to {opacity: .4}
 }
 
+img {
+    width: 900px;
+}
 
