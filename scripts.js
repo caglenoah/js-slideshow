@@ -1,4 +1,4 @@
-// how do i explain this, i understand what it does, now put it into words
+
 let slideIndex = 0; //initialize slide Index to 0
 let showSlides = () => {
     const slides = document.getElementsByClassName("mySlides");
